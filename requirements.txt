@@ -1,0 +1,9 @@
+gunicorn==19.9.0
+requests==2.20.0
+Flask==0.10.1
+Jinja2==2.7.2
+oauth==1.0.1
+oauthlib==0.7.2
+simplejson==0.18.1
+pandas==0.18.1
+bokeh==0.11.1
